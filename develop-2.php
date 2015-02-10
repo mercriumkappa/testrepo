@@ -2,7 +2,7 @@
 
 $test-develop-2;
 
-class thisProjecttest3 {
+class thisProjecttest4 {
 	
 	static function staticFunc(){
 	}
