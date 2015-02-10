@@ -2,7 +2,7 @@
 
 $developfile;
 
-class thisProject {
+class thisProjectdevelop2 {
 	
 	static function staticFunc(){
 	}
