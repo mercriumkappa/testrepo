@@ -6,7 +6,7 @@ class thisProjecttest4 {
 	
 	static function staticFunc(){
 		//修正for dev-2
-		//修正 for dev-3
+		//修正 for dev-4
 	}
 	
 	public function testFunc(){
